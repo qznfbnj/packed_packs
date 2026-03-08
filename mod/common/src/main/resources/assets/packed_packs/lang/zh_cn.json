@@ -1,7 +1,7 @@
 {
   "packed_packs.dev_mode": "开发者模式：%1$s",
   "packed_packs.folder": "文件夹",
-  "packed_packs.folder.open": "显示包…",
+  "packed_packs.folder.open": "显示包……",
   "packed_packs.file.open": "打开文件",
   "packed_packs.file.fail": "文件操作失败",
   "packed_packs.file.rename": "重命名文件",
